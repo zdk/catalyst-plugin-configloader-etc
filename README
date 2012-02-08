@@ -1,6 +1,7 @@
 Catalyst-Plugin-ConfigLoader-Etc
 
-Configure your Catalyst application via environment variables
+Configure your Catalyst application with available options in etc
+plugin :)
 
 INSTALLATION
 
